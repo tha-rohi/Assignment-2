@@ -1,0 +1,1 @@
+This Java program is a menu-driven basic calculator that performs addition, subtraction, multiplication, and division using OOP concepts. It uses a loop to allow repeated operations until the user chooses to exit, and handles division by zero with exception handling.
